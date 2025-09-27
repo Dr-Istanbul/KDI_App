@@ -1,0 +1,29 @@
+# Virtual environments
+.kdi/
+venv/
+env/
+.venv/
+lib/
+lib64/
+pyvenv.cfg
+include/
+bin/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Buildozer
+.bin/
+.buildozer/
+*.apk
+*.aab
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Your project specific
+kdi/  # empty directory
